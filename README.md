@@ -51,7 +51,7 @@ The game interface includes:
 
 * `Pong-Game.aia` — MIT App Inventor project source file
 * `README.md` — Project documentation
-* `screenshots/` — Project screenshots
+* `ponggame.png` — Screenshot App
 
 ## Project
 
